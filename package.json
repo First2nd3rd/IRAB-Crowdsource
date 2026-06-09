@@ -1,0 +1,15 @@
+{
+  "name": "expert-crowdsource",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Expert crowdsource platform: collect expert feedback on agent answers and rubric scoring",
+  "type": "module",
+  "scripts": {
+    "extract": "node scripts/extract.mjs",
+    "translate": "node scripts/translate.mjs",
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

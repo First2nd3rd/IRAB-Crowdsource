@@ -1,0 +1,6 @@
+# Task data lives here at runtime but is not committed.
+# Generate it with the pipeline (see README):
+#   npm run extract            -> data/tasks.raw.json
+#   (summarize workflow)       -> data/summaries.json
+#   node scripts/localize.mjs  -> data/tasks.json
+# Collected expert feedback is written to data/feedback.jsonl.

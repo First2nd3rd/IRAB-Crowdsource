@@ -1,0 +1,11 @@
+{
+  "data_quality": "数据质量",
+  "analysis_depth": "分析深度",
+  "user_need_coverage": "用户需求覆盖",
+  "concept_clarity": "概念清晰度",
+  "data_timeliness": "数据时效性",
+  "source_authority": "来源权威性",
+  "data_inconsistency": "数据矛盾（扣分项）",
+  "logic_chain_integrity": "逻辑链完整性",
+  "cross_subject_comparison": "跨主体对比"
+}
